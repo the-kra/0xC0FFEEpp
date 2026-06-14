@@ -4,9 +4,9 @@
 
 Eine elegante iOS-App, die das alte Konzept der Kaffee-Stempelkarte neu erfindet — mit einer animierten Holzkiste, Goldmünzen und echtem Kassenklingeln.
 
-🌐 **Website:** [theodorkranz.github.io/0xC0FFEEpp](https://theodorkranz.github.io/0xC0FFEEpp/)
-🔒 **Datenschutz:** [Privacy Policy](https://theodorkranz.github.io/0xC0FFEEpp/privacy.html)
-📋 **Support:** [FAQ & Kontakt](https://theodorkranz.github.io/0xC0FFEEpp/support.html)
+🌐 **Website:** [the-kra.github.io/0xC0FFEEpp](https://the-kra.github.io/0xC0FFEEpp/) 
+🔒 **Datenschutz:** [Privacy Policy](https://the-kra.github.io/0xC0FFEEpp/privacy.html)
+📋 **Support:** [FAQ & Kontakt](https://the-kra.github.io/0xC0FFEEpp/support.html)
 
 ---
 
